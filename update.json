@@ -1,5 +1,19 @@
 {
-  "latest_version": "0.2.1",
-  "download_url": "https://github.com/user-attachments/files/24471329/LTR.zip",
-  "release_notes": "Initial release with multi-user support and update feature."
+  "appName": "acounting_book_ua",
+  "description": "Accounting Book UA",
+  "items": [
+    {
+      "version": "0.2.1",
+      "shortVersion": 1,
+      "changes": [
+        {
+          "message": "Initial release"
+        }
+      ],
+      "date": "2026-01-07",
+      "mandatory": false,
+      "url": "https://github.com/user-attachments/files/24471329/LTR.zip",
+      "platform": "windows"
+    }
+  ]
 }
